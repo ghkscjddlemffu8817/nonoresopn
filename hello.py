@@ -1,2 +1,2 @@
-printf("hello world")
-printf("say fuck")
+print("hello world")
+print("say fuck")
